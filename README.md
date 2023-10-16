@@ -1,8 +1,8 @@
-# React + Vite
+# Projeto De Conscientização 
+O Vai na Web disponibilizou o Figma com esse projetinho sobre o Outubro rosa, para que pudéssemos colocar em prática o que estamos aprendendo em sala e falar sobre um assunto tão importante para nós mulheres.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React e seus Hooks como: useState;
+- Métodos como: map();
+- Styled-components.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif)
